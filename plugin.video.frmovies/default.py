@@ -18,7 +18,7 @@ import HTMLParser
 # 501-POSTER WRAP 503-MLIST3 504=MLIST2 508-FANARTPOSTER 
 #confluence_views = [500,501,502,503,504,508]
 
-#TV DASH - by You 2008.
+
 addon = Addon('plugin.video.frmovie', sys.argv)
 xaddon = xbmcaddon.Addon(id='plugin.video.frmovie')
 AddonPath = xaddon.getAddonInfo('path')
